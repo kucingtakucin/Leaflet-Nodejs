@@ -1,0 +1,29 @@
+{
+  "name": "leaflet-nodejs",
+  "version": "1.0.0",
+  "description": "Belajar leaflet dan node js",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy app.js:bundle.js --live",
+    "bundle": "browserify app.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdamArthurF/Leaflet-Nodejs.git"
+  },
+  "author": "Adam Arthur Faizal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamArthurF/Leaflet-Nodejs/issues"
+  },
+  "homepage": "https://github.com/AdamArthurF/Leaflet-Nodejs#readme",
+  "dependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^17.0.0",
+    "leaflet": "^1.7.1"
+  }
+}
