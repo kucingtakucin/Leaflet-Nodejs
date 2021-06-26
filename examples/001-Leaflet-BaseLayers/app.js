@@ -16,18 +16,15 @@ let map = L.map('map', {
 		.openPopup()
 	]
 });
+
 map.on('click', function (event) {
 	L.popup().setLatLng(event.latlng)
 		.setContent("You clicked the map at " + event.latlng.toString())
 		.openOn(map);
 })
 
-
-fetch(`./map-kab-kra.geojson`)
+fetch(`https://raw.githubusercontent.com/AdamArthurF/Leaflet-Nodejs/main/examples/001-Leaflet-BaseLayers/map-kab-kra.geojson`)
 	.then(response => response.json())
 	.then(response => {
-		console.log(response)
-	})
-	.catch(error => {
-		console.error(error)
+		L.geoJSON(response).addTo(map)
 	})

@@ -1,0 +1,120 @@
+[{
+    "kec_id": 1,
+    "latlng": [-7.74449, 111.0138203],
+    "kec_name": "Kec. Jatipuro",
+    "positif": 16,
+    "suspek": 7,
+    "probable": 3
+}, {
+    "kec_id": 2,
+    "latlng": [-7.704725, 111.1035213],
+    "kec_name": "Kec. Jatiyoso",
+    "positif": 11,
+    "suspek": 1,
+    "probable": 2
+}, {
+    "kec_id": 6,
+    "latlng": [-7.661433, 111.1271453],
+    "kec_name": "Kec. Tawangmangu",
+    "positif": 22,
+    "suspek": 2,
+    "probable": 2
+}, {
+    "kec_id": 5,
+    "latlng": [-7.641355, 111.0377783],
+    "kec_name": "Kec. Matesih",
+    "positif": 25,
+    "suspek": 2,
+    "probable": 3
+}, {
+    "kec_id": 4,
+    "latlng": [-7.669329, 110.9841663],
+    "kec_name": "Kec. Jumantono",
+    "positif": 77,
+    "suspek": 5,
+    "probable": 3
+}, {
+    "kec_id": 7,
+    "latlng": [-7.602591, 111.1036263],
+    "kec_name": "Kec. Ngargoyoso",
+    "positif": 3,
+    "suspek": 0,
+    "probable": 4
+}, {
+    "kec_id": 3,
+    "latlng": [-7.71191, 110.9601813],
+    "kec_name": "Kec. Jumapolo",
+    "positif": 9,
+    "suspek": 7,
+    "probable": 4
+}, {
+    "kec_id": 9,
+    "latlng": [-7.5988, 110.9485],
+    "kec_name": "Kec. Karanganyar",
+    "positif": 72,
+    "suspek": 3,
+    "probable": 6
+}, {
+    "kec_id": 8,
+    "latlng": [-7.6045, 111.0703],
+    "kec_name": "Kec. Karangpandan",
+    "positif": 5,
+    "suspek": 1,
+    "probable": 6
+}, {
+    "kec_id": 10,
+    "latlng": [-7.57096, 110.9363933],
+    "kec_name": "Kec. Tasikmadu",
+    "positif": 64,
+    "suspek": 2,
+    "probable": 9
+}, {
+    "kec_id": 11,
+    "latlng": [-7.559027, 110.8827473],
+    "kec_name": "Kec. Jaten",
+    "positif": 103,
+    "suspek": 12,
+    "probable": 13
+}, {
+    "kec_id": 14,
+    "latlng": [-7.511256, 110.9125403],
+    "kec_name": "Kec. Kebakkramat",
+    "positif": 31,
+    "suspek": 4,
+    "probable": 10
+}, {
+    "kec_id": 12,
+    "latlng": [-7.53242, 110.74892],
+    "kec_name": "Kec. Colomadu",
+    "positif": 182,
+    "suspek": 18,
+    "probable": 8
+}, {
+    "kec_id": 13,
+    "latlng": [-7.495469, 110.8421953],
+    "kec_name": "Kec. Gondangrejo",
+    "positif": 60,
+    "suspek": 8,
+    "probable": 5
+}, {
+    "kec_id": 15,
+    "latlng": [-7.546056, 110.9842383],
+    "kec_name": "Kec. Mojogedang",
+    "positif": 27,
+    "suspek": 5,
+    "probable": 9
+}, {
+    "kec_id": 16,
+    "latlng": [-7.536727, 111.0618333],
+    "kec_name": "Kec. Kerjo",
+    "positif": 38,
+    "suspek": 1,
+    "probable": 5
+}, {
+    "kec_id": 17,
+    "latlng": [-7.539923, 111.1273113],
+    "kec_name": "Kec. Jenawi",
+    "positif": 26,
+    "suspek": 1,
+    "probable": 0
+}];
