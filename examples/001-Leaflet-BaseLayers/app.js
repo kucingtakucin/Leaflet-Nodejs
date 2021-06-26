@@ -28,3 +28,9 @@ fetch(`https://raw.githubusercontent.com/AdamArthurF/Leaflet-Nodejs/main/example
 	.then(response => {
 		L.geoJSON(response).addTo(map)
 	})
+
+fetch(`https://raw.githubusercontent.com/AdamArthurF/Leaflet-Nodejs/main/examples/001-Leaflet-BaseLayers/kecamatan.json`)
+	.then(response => response.json())
+	.then(response => {
+		console.log(response)
+	})
